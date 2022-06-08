@@ -1,5 +1,5 @@
 # Functions
-def computepay(h, r): 
+def computepay(h, r):
      if h >40: 
          a=h*r 
          b=(h-40)*(r*0.5) 
