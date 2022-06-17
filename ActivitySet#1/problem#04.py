@@ -10,4 +10,4 @@ hrs = input("Enter hours")
      print(pay) 
  else: 
      pay= hrs*rate 
-     print(pay)
+     print(pay) 
