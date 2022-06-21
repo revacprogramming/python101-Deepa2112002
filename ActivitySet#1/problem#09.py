@@ -11,6 +11,6 @@ fname = input("Enter file name: ")
          else: 
              lst.append(i) 
  lst.sort() 
- print (lst)
+ print (lst) 
 filename = "dataset/romeo.txt"
 
