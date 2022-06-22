@@ -19,4 +19,4 @@ largest = None
   
   
  print("Maximum", largest) 
- print("Minimum",smallest)
+ print("Minimum",smallest) 
