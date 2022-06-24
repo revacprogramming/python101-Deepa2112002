@@ -12,6 +12,6 @@ fname = input("Enter filename:")
      count= count +1 
      num=float(line[21:]) 
      total=num+total 
-     y=total/count 
+     y=total/count
      print("average spam confidence:",y)
 
